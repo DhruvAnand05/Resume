@@ -22,7 +22,7 @@ I’m a third-year Electrical Engineering (Co-op) student at McMaster University
 ---
 
 ## 🔗 External Links  
-- [Portfolio Website](https://three-dirigible-4bb.notion.site/Dhruv-Anand)  
+- [Portfolio Website](https://three-dirigible-4bb.notion.site/Dhruv-Anand-5bfbe61a31344dd5be4de5f4fb3cdf16)  
 - [LinkedIn](https://www.linkedin.com/in/dhruv-anand-7b7648278/?originalSubdomain=ca)
 
 
